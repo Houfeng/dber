@@ -1,0 +1,30 @@
+{
+  "name": "dber",
+  "version": "0.0.0",
+  "description": "一个轻量的支持多进程并发的文件数据库",
+  "main": "index.js",
+  "scripts": {
+    "test": "mohca"
+  },
+  "keywords": [
+    "db",
+    "file",
+    "database",
+    "dber",
+    "sqlite",
+    "nedb"
+  ],
+  "author": "Houfeng",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "binary-search-tree": "^0.2.6",
+    "bintrees": "^1.0.1",
+    "cify": "^1.0.2",
+    "cmdline": "^1.1.7",
+    "lockman": "0.0.6",
+    "mkdir-p": "0.0.7",
+    "ntils": "^1.0.2",
+    "split": "^1.0.0"
+  }
+}
